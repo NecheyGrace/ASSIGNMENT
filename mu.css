@@ -1,0 +1,25 @@
+body{
+    
+    padding-top: 75px;
+    margin: 0px;
+    background-image: url(museum2-696x340.jpg); 
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+.didi{
+    padding: 2px;
+}
+
+
+.fam{
+    background-color: orangered;
+    width: 125px;
+    height: 50px;
+}
+.banm{
+
+
+}
